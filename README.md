@@ -1,4 +1,4 @@
-# Sentiment Analysis
+# sentiment analysis with transformer models
 
 A full-stack application that performs sentiment analysis on social media data from Twitter and Reddit, providing insights into public sentiment and opinions.
 
